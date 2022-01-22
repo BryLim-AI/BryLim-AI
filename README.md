@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @BryLim-AI
-- 👀 I’m interested in TECHNOLOGY
-- 🌱 I’m currently learning JAVASCRIPT
-- 💞️ I’m looking to collaborate on ANY PROJECTS
-- 📫 How to reach me Email:bryanqlim@gmail.com
+Im BRYAN LIM , 21 studying at De La Salle - College of Saint Benilde taking Bachelor of Science in Information Systems
+
+My Interests:
+
+-- Artificial Intelligence --
+-- Machine Learning --
+-- Cloud Computing --
+-- Computer Programming --
+-- Internet of Things --
+-- Quantum Computing --
+-- CyberSecurity --
+-- Web Development --
+-- Other Information Technology Fields --
+
+
+
+
 
 <!---
 BryLim-AI/BryLim-AI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
