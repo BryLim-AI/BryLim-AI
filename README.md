@@ -9,3 +9,4 @@ Education: De La Salle-College of Saint Benilde <br>
 Interest: Computer & Techology, Trading, CyberSecurity, AI
 </h3> 
 <h2>Projects</h2>
+<span style="color: blue">This text is blue</span>
