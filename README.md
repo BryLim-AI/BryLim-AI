@@ -6,7 +6,9 @@ Name: Bryan Lim <br>
 Nickname: Bry <br>
 Degree: BSc-Information Systems <br>
 Education: De La Salle-College of Saint Benilde <br>
-Interest: Computer & Techology, Trading, CyberSecurity, AI
+Interest: Computer & Techology, Trading, CyberSecurity, AI <br>
+Hobby: Music, Biking, Cooking, Food Trip <br>
+Language: English, Chinese, Filipino
 </h3> 
 <h2>Projects</h2>
 
