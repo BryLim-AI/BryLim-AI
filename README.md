@@ -8,3 +8,5 @@ Degree: BSc-Information Systems <br>
 Education: De La Salle-College of Saint Benilde <br>
 Interest: Computer & Techology, Trading, CyberSecurity, AI
 </h3> 
+
+<h2>Projects</h2>
